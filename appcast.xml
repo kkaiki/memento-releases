@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Memento</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Tue, 18 Aug 2026 10:34:33 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.2.1.dmg" length="10158379" type="application/octet-stream" sparkle:edSignature="KrvlcAhhMqU+TYMJjcCZcm8ANdI7nQ4Pza12PNkKDo0DxROOl9WxVv087MUZyodCVICZxUPKLNtJslQltAeACQ=="/>
+        </item>
+    </channel>
+</rss>
