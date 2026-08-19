@@ -3,6 +3,14 @@
     <channel>
         <title>Memento</title>
         <item>
+            <title>0.3.7</title>
+            <pubDate>Wed, 19 Aug 2026 10:30:20 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.3.7.dmg" length="11303330" type="application/octet-stream" sparkle:edSignature="jxw0dfw1AYMZ31JL0nYOiHFotC9p1hg/UCk1C8RHZ89nvcpiXKaVF4mgccDAFqBleRKKa7nQm9CU/p8u03zdAA=="/>
+        </item>
+        <item>
             <title>0.3.6</title>
             <pubDate>Wed, 19 Aug 2026 10:20:00 +0900</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.3.5.dmg" length="11294623" type="application/octet-stream" sparkle:edSignature="Bxsyf4iYcxfkbZat3zU6oJJPZXUTWh0y/SH21qrBsD2i65nK3WJ7xycRe6c9o3PgC68n3obwOkLu89N0xMs2AA=="/>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Tue, 18 Aug 2026 23:57:05 +0900</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.3.4.dmg" length="11276884" type="application/octet-stream" sparkle:edSignature="kD7K0EeNAPY2UNPxePVKqtx9ZbxlKK+hCGHbaY4WGZsDpFj+gMUH7zSAKzWQKBx7Q2401kFXe/HofuZ+W0mmCQ=="/>
         </item>
     </channel>
 </rss>
