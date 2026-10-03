@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.6.6.dmg" length="18703443" type="application/octet-stream" sparkle:edSignature="RXfadQcFU6qe8dnVkk4OaaK0/iKscea/rKlEAnQEtxsGw0BTku4u6rDlMpv6y90BxwxZCeqJ0mjN6zLOew5MDw=="/>
+            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.6.6.dmg" length="18690788" type="application/octet-stream" sparkle:edSignature="znZ9X6d173mlkvwu/drgerrnUh9PoFUVEXUXVF/9tDwaEN4K/Alkph5DFuVWZm/exaqZiMYGigOpP052UjhwCw=="/>
         </item>
         <item>
             <title>0.6.5</title>
