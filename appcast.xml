@@ -3,13 +3,22 @@
     <channel>
         <title>Memento</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Sat, 10 Oct 2026 00:41:26 +0800</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.7.0.dmg" length="22083916" type="application/octet-stream" sparkle:edSignature="B9k9Vfgg8uznaKBso21n1SoAGRBUVKHbr0jQsxBbNiC4IyA/1dy41E53S7ajVvQTB9V7YGqGHriKtDLYV/oPAA=="/>
+        </item>
+        <item>
             <title>0.6.13</title>
             <pubDate>Wed, 07 Oct 2026 17:39:08 +0800</pubDate>
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>0.6.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.6.13.dmg" length="21803295" type="application/octet-stream" sparkle:edSignature="hzqa6+jgP7x0w9XlVijuUcqg5R7wWQquVplvW3N8Wwqsa+WLbhfffIRKypbWLi8euY/VzDwcCgstlrTdGoxzAQ=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.6.13.dmg" length="21803295" type="application/octet-stream" sparkle:edSignature="hzqa6+jgP7x0w9XlVijuUcqg5R7wWQquVplvW3N8Wwqsa+WLbhfffIRKypbWLi8euY/VzDwcCgstlrTdGoxzAQ=="/>
         </item>
         <item>
             <title>0.6.9</title>
@@ -18,16 +27,7 @@
             <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.6.9.dmg" length="21289086" type="application/octet-stream" sparkle:edSignature="AGZhJZAx7hLsSlgRd/1WFDXI6SkO+WnXoTTIBtbQl2R2dWM365FeBspOuYeFaPxZG3dHLJWZEKmEBjos6VqJBw=="/>
-        </item>
-        <item>
-            <title>0.6.8</title>
-            <pubDate>Tue, 06 Oct 2026 15:08:39 +0800</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.6.8.dmg" length="20857766" type="application/octet-stream" sparkle:edSignature="pd8IfYyiut67zI9+A8HKfbb7jukTaPjSV4xatKx3iIJQSddbAcpPmUHbOab42Srg9j+xSrZoHLEMgIAbcVvlBg=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.6.9.dmg" length="21289086" type="application/octet-stream" sparkle:edSignature="AGZhJZAx7hLsSlgRd/1WFDXI6SkO+WnXoTTIBtbQl2R2dWM365FeBspOuYeFaPxZG3dHLJWZEKmEBjos6VqJBw=="/>
         </item>
         <item>
             <title>0.5.0</title>
@@ -35,7 +35,7 @@
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.5.0.dmg" length="18687234" type="application/octet-stream" sparkle:edSignature="wvYOG4qhzThBDLbw96QZWC/JzpA6Xjr3MKAJbHO0/q/qKRJfyQO8uSXua3UBtUCFeBY/4aW1/KZwDWg5A4WnBg=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.5.0.dmg" length="18687234" type="application/octet-stream" sparkle:edSignature="wvYOG4qhzThBDLbw96QZWC/JzpA6Xjr3MKAJbHO0/q/qKRJfyQO8uSXua3UBtUCFeBY/4aW1/KZwDWg5A4WnBg=="/>
         </item>
         <item>
             <title>0.4.1</title>
@@ -43,7 +43,7 @@
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.4.1.dmg" length="17876955" type="application/octet-stream" sparkle:edSignature="nWx0tFNoR5u6EPkEIdCsQSpZXBjnSo5vjyX+eBBxJN1bWRU09Fz/Xc+WOace9jduHhP9mROZZoRrtlbzzJG5Aw=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.4.1.dmg" length="17876955" type="application/octet-stream" sparkle:edSignature="nWx0tFNoR5u6EPkEIdCsQSpZXBjnSo5vjyX+eBBxJN1bWRU09Fz/Xc+WOace9jduHhP9mROZZoRrtlbzzJG5Aw=="/>
         </item>
         <item>
             <title>0.4.0</title>
@@ -51,7 +51,7 @@
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kkaiki/memento-releases/releases/download/downloads/Memento-0.4.0.dmg" length="15916011" type="application/octet-stream" sparkle:edSignature="8XSu9M34PILVaWMsSEFeELlipc66A0zAq9+WRksArXkwLi7rNsosCV9XTrCrrT5H1KceNONKOc1/c9iWuZBmBg=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memento-0.4.0.dmg" length="15916011" type="application/octet-stream" sparkle:edSignature="8XSu9M34PILVaWMsSEFeELlipc66A0zAq9+WRksArXkwLi7rNsosCV9XTrCrrT5H1KceNONKOc1/c9iWuZBmBg=="/>
         </item>
     </channel>
 </rss>
